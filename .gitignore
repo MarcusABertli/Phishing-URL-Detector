@@ -11,3 +11,4 @@ venv/
 
 # Ignore data files that are large or can be regenerated
 data/titanic.zip
+data/malicious_phish.csv
